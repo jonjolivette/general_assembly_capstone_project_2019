@@ -27,3 +27,10 @@ class User(models.Model):
 
     def __str__(self):
         return '%s %s' % (self.first_name, self.last_name)
+
+
+class Library(models.Model):
+    video = models.ForeignKey(
+        'auth.User', on_delete=models.CASCADE, related_name='library_videos')
+    user = models.ForeignKey(
+        'auth.User', on_delete=models.CASCADE, related_name='library_users')
