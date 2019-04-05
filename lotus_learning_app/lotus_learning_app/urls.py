@@ -1,7 +1,7 @@
 from django.conf.urls import include, url  # for django versions before 2.0
 from django.urls import include, path  # for django versions from 2.0 and up
 from django.conf import settings
-from lotus_logic.views import Index
+from lotus_logic.views import Index, NewVideo
 """lotus_learning_app URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -22,5 +22,6 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('index/', Index.as_view())
+    path('index/', Index.as_view()),
+    path('new_video/', NewVideo.as_view())
 ]
