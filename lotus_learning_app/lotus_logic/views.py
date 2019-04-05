@@ -4,8 +4,11 @@ from django.views.generic.base import View, HttpResponse
 
 
 class Index(View):
+    template_name = 'index.html'
+
     def get(self, request):
-        return HttpResponse('This is where my views stuff will populate!!! GET GET GET IT!!!')
+        variableA = 'Testing out...should see some text here.'
+        return render(request, self.template_name, {'variableA': variableA})
 
     def post(self, request):
         return HttpResponse('This is where my views stuff will populate!!! POST POST POST!!!')

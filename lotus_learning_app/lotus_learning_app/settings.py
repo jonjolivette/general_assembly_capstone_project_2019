@@ -54,7 +54,7 @@ ROOT_URLCONF = 'lotus_learning_app.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['lotus_logic'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
