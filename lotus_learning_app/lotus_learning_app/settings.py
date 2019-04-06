@@ -118,6 +118,10 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
+# this is the address that you have to go to find your static filess ( css, js, media)
 STATIC_URL = '/static/'
-
+#
+STATICFILES_DIR = (
+    os.path.join(BASE_DIR, 'media_assets')
+)
 MEDIA_URL = '/media/'

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="513" product="14.0(130)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="14.0" Self="d">
+	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch3" />
+	<Color Self="Color/C=0 M=0 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=0 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch6" />
+	<Color Self="Color/C=0 M=100 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=0 M=100 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch5" />
+	<Color Self="Color/C=100 M=0 Y=0 K=0" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=0 Y=0 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch4" />
+	<Color Self="Color/C=100 M=90 Y=10 K=0" Model="Process" Space="CMYK" ColorValue="100 90 10 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=100 M=90 Y=10 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch9" />
+	<Color Self="Color/C=15 M=100 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="15 100 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=15 M=100 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch7" />
+	<Color Self="Color/C=75 M=5 Y=100 K=0" Model="Process" Space="CMYK" ColorValue="75 5 100 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="C=75 M=5 Y=100 K=0" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch8" />
+	<Color Self="Color/Cyan" Model="Process" Space="CMYK" ColorValue="100 0 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Cyan" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Magenta" Model="Process" Space="CMYK" ColorValue="0 100 0 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Magenta" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Color Self="Color/Paper" Model="Process" Space="CMYK" ColorValue="0 0 0 0" ColorOverride="Specialpaper" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Paper" ColorEditable="true" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch2" />
+	<Color Self="Color/Registration" Model="Registration" Space="CMYK" ColorValue="100 100 100 100" ColorOverride="Specialregistration" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Registration" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch1" />
+	<Color Self="Color/Yellow" Model="Process" Space="CMYK" ColorValue="0 0 100 0" ColorOverride="Hiddenreserved" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Yellow" ColorEditable="false" ColorRemovable="false" Visible="false" SwatchCreatorID="7937" SwatchColorGroupReference="n" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u18ColorGroupSwatch0" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" StrokeStyleType="$ID/" Name="$ID/Solid" />
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di97" Name="Myriad Pro">
+		<Font Self="di97FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.81;makeotf.lib2.5.63406" TypekitID="TkD-6851-d71d4646b20336473742a0ebcf81769cce99e902" />
+		<Font Self="di97FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di97FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia4" Name="Kozuka Mincho Pr6N">
+		<Font Self="dia4FontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pr6N R" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 6.017;PS 6.004;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua3" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua8" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua9" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u79">
+		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" Name="$ID/[No character style]" />
+	</RootCharacterStyleGroup>
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<RootParagraphStyleGroup Self="u78">
+		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: USA" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="20" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="12" ParagraphBorderTopRightCornerRadius="12" ParagraphBorderBottomLeftCornerRadius="12" ParagraphBorderBottomRightCornerRadius="12" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="12" ParagraphShadingTopRightCornerRadius="12" ParagraphShadingBottomLeftCornerRadius="12" ParagraphShadingBottomRightCornerRadius="12" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" MergeConsecutiveParaBorders="true" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
+			<Properties>
+				<Leading type="enumeration">Auto</Leading>
+				<TabList type="list">
+				</TabList>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+				<RuleAboveColor type="string">Text Color</RuleAboveColor>
+				<RuleBelowColor type="string">Text Color</RuleBelowColor>
+				<RuleAboveType type="object">StrokeStyle/$ID/Solid</RuleAboveType>
+				<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
+				<BalanceRaggedLines type="enumeration">NoBalancing</BalanceRaggedLines>
+				<RuleAboveGapColor type="object">Swatch/None</RuleAboveGapColor>
+				<RuleBelowGapColor type="object">Swatch/None</RuleBelowGapColor>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<SpanSplitColumnCount type="enumeration">All</SpanSplitColumnCount>
+				<ParagraphShadingColor type="object">Color/Black</ParagraphShadingColor>
+				<ParagraphBorderColor type="object">Color/Black</ParagraphBorderColor>
+				<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
+				<ParagraphBorderType type="object">StrokeStyle/$ID/Solid</ParagraphBorderType>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+				<BulletChar BulletCharacterType="UnicodeOnly" BulletCharacterValue="8226" />
+				<NumberingFormat type="string">1, 2, 3, 4...</NumberingFormat>
+				<BulletsFont type="string">$ID/</BulletsFont>
+				<BulletsFontStyle type="enumeration">Nothing</BulletsFontStyle>
+				<AppliedNumberingList type="object">NumberingList/$ID/[Default]</AppliedNumberingList>
+				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
+				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
+				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+				<SameParaStyleSpacing type="enumeration">SetIgnore</SameParaStyleSpacing>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<RootCellStyleGroup Self="u88">
+		<CellStyle Self="CellStyle/$ID/[None]" AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[None]" />
+	</RootCellStyleGroup>
+	<RootTableStyleGroup Self="u8a">
+		<TableStyle Self="TableStyle/$ID/[No table style]" GraphicLeftInset="0" GraphicTopInset="0" GraphicRightInset="0" GraphicBottomInset="0" ClipContentToGraphicCell="false" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" Name="$ID/[No table style]" StrokeOrder="BestJoins" TopBorderStrokeWeight="1" TopBorderStrokeType="StrokeStyle/$ID/Solid" TopBorderStrokeColor="Color/Black" TopBorderStrokeTint="100" TopBorderStrokeOverprint="false" TopBorderStrokeGapColor="Color/Paper" TopBorderStrokeGapTint="100" TopBorderStrokeGapOverprint="false" LeftBorderStrokeWeight="1" LeftBorderStrokeType="StrokeStyle/$ID/Solid" LeftBorderStrokeColor="Color/Black" LeftBorderStrokeTint="100" LeftBorderStrokeOverprint="false" LeftBorderStrokeGapColor="Color/Paper" LeftBorderStrokeGapTint="100" LeftBorderStrokeGapOverprint="false" BottomBorderStrokeWeight="1" BottomBorderStrokeType="StrokeStyle/$ID/Solid" BottomBorderStrokeColor="Color/Black" BottomBorderStrokeTint="100" BottomBorderStrokeOverprint="false" BottomBorderStrokeGapColor="Color/Paper" BottomBorderStrokeGapTint="100" BottomBorderStrokeGapOverprint="false" RightBorderStrokeWeight="1" RightBorderStrokeType="StrokeStyle/$ID/Solid" RightBorderStrokeColor="Color/Black" RightBorderStrokeTint="100" RightBorderStrokeOverprint="false" RightBorderStrokeGapColor="Color/Paper" RightBorderStrokeGapTint="100" RightBorderStrokeGapOverprint="false" SpaceBefore="4" SpaceAfter="-4" SkipFirstAlternatingStrokeRows="0" SkipLastAlternatingStrokeRows="0" StartRowStrokeCount="0" StartRowStrokeColor="Color/Black" StartRowStrokeWeight="1" StartRowStrokeType="StrokeStyle/$ID/Solid" StartRowStrokeTint="100" StartRowStrokeGapOverprint="false" StartRowStrokeGapColor="Color/Paper" StartRowStrokeGapTint="100" StartRowStrokeOverprint="false" EndRowStrokeCount="0" EndRowStrokeColor="Color/Black" EndRowStrokeWeight="0.25" EndRowStrokeType="StrokeStyle/$ID/Solid" EndRowStrokeTint="100" EndRowStrokeOverprint="false" EndRowStrokeGapColor="Color/Paper" EndRowStrokeGapTint="100" EndRowStrokeGapOverprint="false" SkipFirstAlternatingStrokeColumns="0" SkipLastAlternatingStrokeColumns="0" StartColumnStrokeCount="0" StartColumnStrokeColor="Color/Black" StartColumnStrokeWeight="1" StartColumnStrokeType="StrokeStyle/$ID/Solid" StartColumnStrokeTint="100" StartColumnStrokeOverprint="false" StartColumnStrokeGapColor="Color/Paper" StartColumnStrokeGapTint="100" StartColumnStrokeGapOverprint="false" EndColumnStrokeCount="0" EndColumnStrokeColor="Color/Black" EndColumnStrokeWeight="0.25" EndColumnLineStyle="StrokeStyle/$ID/Solid" EndColumnStrokeTint="100" EndColumnStrokeOverprint="false" EndColumnStrokeGapColor="Color/Paper" EndColumnStrokeGapTint="100" EndColumnStrokeGapOverprint="false" ColumnFillsPriority="false" SkipFirstAlternatingFillRows="0" SkipLastAlternatingFillRows="0" StartRowFillColor="Color/Black" StartRowFillCount="0" StartRowFillTint="20" StartRowFillOverprint="false" EndRowFillCount="0" EndRowFillColor="Swatch/None" EndRowFillTint="100" EndRowFillOverprint="false" SkipFirstAlternatingFillColumns="0" SkipLastAlternatingFillColumns="0" StartColumnFillCount="0" StartColumnFillColor="Color/Black" StartColumnFillTint="20" StartColumnFillOverprint="false" EndColumnFillCount="0" EndColumnFillColor="Swatch/None" EndColumnFillTint="100" EndColumnFillOverprint="false" HeaderRegionSameAsBodyRegion="true" FooterRegionSameAsBodyRegion="true" LeftColumnRegionSameAsBodyRegion="true" RightColumnRegionSameAsBodyRegion="true" HeaderRegionCellStyle="n" FooterRegionCellStyle="n" LeftColumnRegionCellStyle="n" RightColumnRegionCellStyle="n" BodyRegionCellStyle="CellStyle/$ID/[None]" />
+		<TableStyle Self="TableStyle/$ID/[Basic Table]" Name="$ID/[Basic Table]" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="string">$ID/[No table style]</BasedOn>
+			</Properties>
+		</TableStyle>
+	</RootTableStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<FootnoteOption EnableStraddling="true" StartAt="1" Prefix="" Suffix="" FootnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" FootnoteMarkerStyle="CharacterStyle/$ID/[No character style]" SeparatorText="&#x9;" SpaceBetween="0" Spacer="0" FootnoteFirstBaselineOffset="LeadingOffset" FootnoteMinimumFirstBaselineOffset="0" EosPlacement="false" NoSplitting="false" RuleOn="true" RuleLineWeight="1" RuleTint="100" RuleGapTint="100" RuleGapOverprint="false" RuleOverprint="false" RuleLeftIndent="0" RuleWidth="72" RuleOffset="0" ContinuingRuleOn="true" ContinuingRuleLineWeight="1" ContinuingRuleTint="100" ContinuingRuleGapTint="100" ContinuingRuleOverprint="false" ContinuingRuleGapOverprint="false" ContinuingRuleLeftIndent="0" ContinuingRuleWidth="288" ContinuingRuleOffset="0">
+		<Properties>
+			<FootnoteNumberingStyle type="enumeration">Arabic</FootnoteNumberingStyle>
+			<RestartNumbering type="enumeration">DontRestart</RestartNumbering>
+			<ShowPrefixSuffix type="enumeration">NoPrefixSuffix</ShowPrefixSuffix>
+			<MarkerPositioning type="enumeration">SuperscriptMarker</MarkerPositioning>
+			<RuleType type="object">StrokeStyle/$ID/Solid</RuleType>
+			<RuleColor type="object">Color/Black</RuleColor>
+			<RuleGapColor type="object">Swatch/None</RuleGapColor>
+			<ContinuingRuleType type="object">StrokeStyle/$ID/Solid</ContinuingRuleType>
+			<ContinuingRuleColor type="object">Color/Black</ContinuingRuleColor>
+			<ContinuingRuleGapColor type="object">Swatch/None</ContinuingRuleGapColor>
+		</Properties>
+	</FootnoteOption>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<EndnoteOption EndnoteTitle="Endnotes" EndnoteTitleStyle="ParagraphStyle/$ID/NormalParagraphStyle" StartEndnoteNumberAt="1" EndnoteMarkerStyle="CharacterStyle/$ID/[No character style]" EndnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" EndnoteSeparatorText="&#x9;" EndnotePrefix="" EndnoteSuffix="">
+		<Properties>
+			<EndnoteNumberingStyle type="enumeration">Arabic</EndnoteNumberingStyle>
+			<RestartEndnoteNumbering type="enumeration">Continuous</RestartEndnoteNumbering>
+			<EndnoteMarkerPositioning type="enumeration">SuperscriptMarker</EndnoteMarkerPositioning>
+			<ScopeValue type="enumeration">EndnoteDocumentScope</ScopeValue>
+			<FrameCreateOption type="enumeration">NewPage</FrameCreateOption>
+			<ShowEndnotePrefixSuffix type="enumeration">NoPrefixSuffix</ShowEndnotePrefixSuffix>
+		</Properties>
+	</EndnoteOption>
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
+	<TextVariable Self="dTextVariablenChapter Number" Name="Chapter Number" VariableType="ChapterNumberType">
+		<ChapterNumberVariablePreference TextBefore="" Format="Current" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenCreation Date" Name="Creation Date" VariableType="CreationDateType">
+		<DateVariablePreference TextBefore="" Format="MM/dd/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenFile Name" Name="File Name" VariableType="FileNameType">
+		<FileNameVariablePreference TextBefore="" IncludePath="false" IncludeExtension="false" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenImage Name" Name="Image Name" VariableType="LiveCaptionType">
+		<CaptionMetadataVariablePreference TextBefore="" MetadataProviderName="$ID/#LinkInfoNameStr" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLast Page Number" Name="Last Page Number" VariableType="LastPageNumberType">
+		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenModification Date" Name="Modification Date" VariableType="ModificationDateType">
+		<DateVariablePreference TextBefore="" Format="MMMM d, yyyy h:mm aa" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenOutput Date" Name="Output Date" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="MM/dd/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenRunning Header" Name="Running Header" VariableType="MatchParagraphStyleType">
+		<MatchParagraphStylePreference TextBefore="" TextAfter="" AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SearchStrategy="FirstOnPage" ChangeCase="None" DeleteEndPunctuation="false" />
+	</TextVariable>
+	<XMLTag Self="XMLTag/Root" Name="Root">
+		<Properties>
+			<TagColor type="enumeration">LightBlue</TagColor>
+		</Properties>
+	</XMLTag>
+	<CrossReferenceFormat Self="u98" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9bBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9f" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9fBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9fBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="ua0" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="ua0BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="ua0BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="ud7" IsEndnoteStory="false" TrackChanges="false" StoryTitle="user-stories" AppliedNamedGrid="n">
+		<Properties>
+			<AppliedIndexInstance type="enumeration">Nothing</AppliedIndexInstance>
+		</Properties>
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c145 79.163499, 2018/08/13-16:40:22        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <xmp:CreateDate>2019-03-29T10:13:27-07:00</xmp:CreateDate>
+         <xmp:MetadataDate>2019-04-06T10:59:51-07:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2019-04-06T10:59:51-07:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InCopy CC 14.0 (Macintosh)</xmp:CreatorTool>
+         <xmp:PageInfo>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>1</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AMYDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCbeU/KflW58q6L&#xA;cXGi6fNNNp9rJJJJaws7u0MbMzM0ZJJJ3OKpt/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9&#xA;U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//&#xA;AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCkOD/qnirv8GeT/wDqw6b/ANIcH/VPFXf4M8n/APVh03/p&#xA;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&#xA;qv8A2vP+SOKu/wCdV/7Xn/JHFXf86r/2vP8Akjirv+dV/wC15/yRxV3/ADqv/a8/5I4q7/nVf+15&#xA;/wAkcVd/zqv/AGvP+SOKu/51X/tef8kcVd/zqv8A2vP+SOKu/wCdV/7Xn/JHFXf86r/2vP8Akjir&#xA;v+dV/wC15/yRxV3/ADqv/a8/5I4q7/nVf+15/wAkcVd/zqv/AGvP+SOKu/51X/tef8kcVd/zqv8A&#xA;2vP+SOKu/wCdV/7Xn/JHFXf86r/2vP8Akjirv+dV/wC15/yRxVE6dY+WtTvYrGF9ZjeYkK0piCCg&#xA;LbkBvDFWf6VpsOk2SWMDySpGWIaYhnPIltyAvjiqB13/AI6nlz/tpSf907UsVd5M/wCUP0H/ALZt&#xA;n/yYjxVB+ar24tbi3WHWE0oMhJR4y/Pf7WyNiqQ/pe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXf&#xA;pe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/&#xA;6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH&#xA;/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3&#xA;/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLFXfpe+/6muH/kQ3/VLF&#xA;Xfpe+/6muH/kQ3/VLFUfo3mGK0unk1XzDFewGMqsYiZaPVSGqIx2BxVmFtcwXkCXVs4khlHJHFRU&#xA;fTTFUq13/jqeXP8AtpSf907UsVd5M/5Q/Qf+2bZ/8mI8VQvmhb0zwfVbHTrwcDya/CFlNeic5E2x&#xA;VIuGsf8AVm0H/gYv+q2Ku4ax/wBWbQf+Bi/6rYq7hrH/AFZtB/4GL/qtiruGsf8AVm0H/gYv+q2K&#xA;u4ax/wBWbQf+Bi/6rYq7hrH/AFZtB/4GL/qtiruGsf8AVm0H/gYv+q2Ku4ax/wBWbQf+Bi/6rYq7&#xA;hrH/AFZtB/4GL/qtiruGsf8AVm0H/gYv+q2Ku4ax/wBWbQf+Bi/6rYq7hrH/AFZtB/4GL/qtiruG&#xA;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&#xA;8fJyJNhydRU9yMVf/9k=</xmpGImg:image>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>2</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AMYDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCbeU/KflW58q6L&#xA;cXGi6fNNNp9rJJJJaws7u0MbMzM0ZJJJ3OKpt/gzyf8A9WHTf+kOD/qnirv8GeT/APqw6b/0hwf9&#xA;U8Vd/gzyf/1YdN/6Q4P+qeKu/wAGeT/+rDpv/SHB/wBU8Vd/gzyf/wBWHTf+kOD/AKp4q7/Bnk//&#xA;AKsOm/8ASHB/1TxV3+DPJ/8A1YdN/wCkOD/qnirv8GeT/wDqw6b/ANIcH/VPFXf4M8n/APVh03/p&#xA;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</xmpGImg:image>
+               </rdf:li>
+            </rdf:Seq>
+         </xmp:PageInfo>
+         <xmpMM:InstanceID>xmp.iid:06e0cf88-e90f-43d3-bccd-ff508c39e487</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:06e0cf88-e90f-43d3-bccd-ff508c39e487</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:b26195d8-1b6f-4515-ba52-7bc343acaeb9</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b26195d8-1b6f-4515-ba52-7bc343acaeb9</stEvt:instanceID>
+                  <stEvt:when>2019-03-29T10:13:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 14.0 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:735d0b24-d185-4f34-809b-eac0ac7a25d5</stEvt:instanceID>
+                  <stEvt:when>2019-03-31T23:02:02-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 14.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:824cc732-3681-4d50-8b35-a8e02e9caf9c</stEvt:instanceID>
+                  <stEvt:when>2019-03-31T23:02:02-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 14.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0bf9e745-a3f9-499d-a1b4-952d7a39b39d</stEvt:instanceID>
+                  <stEvt:when>2019-04-06T10:59:51-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 14.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:06e0cf88-e90f-43d3-bccd-ff508c39e487</stEvt:instanceID>
+                  <stEvt:when>2019-04-06T10:59:51-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InCopy CC 14.0 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:0bf9e745-a3f9-499d-a1b4-952d7a39b39d</stRef:instanceID>
+            <stRef:documentID>xmp.did:b26195d8-1b6f-4515-ba52-7bc343acaeb9</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:b26195d8-1b6f-4515-ba52-7bc343acaeb9</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">user-stories</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Black</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Paper</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registration</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-RegularVersion 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MinionPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<StandaloneDocumentPreference PageHeight="792" PageWidth="612" TextAreaWidth="540" TextAreaDepth="0" TextAreaDepthUnit="DepthColumnInches" FrameType="TextFrameType" StoryOrientation="Horizontal" CharacterAki="0" LineAki="6.909448818897637" HorizontalScale="100" VerticalScale="100" TextAreaCharPerLine="52" FacingPages="true" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>LOTUS LEARNING</Content>
+				<Br />
+				<Content>Reimagine the future of learning</Content>
+				<Br />
+				<Br />
+				<Content>Setting out to solve the problem of content fragmentation as it relates to the sea of online web developement resources by introducing a more refined and curated library/platform for General Assembly’s web development immersive students. </Content>
+				<Br />
+				<Br />
+				<Br />
+				<Content>PROBLEM</Content>
+				<Br />
+				<Content>Today, the World Wide Wide is capable of delivering a infinite number of experiences and the kind of exposure to the world we would have never have imagined was possible previously. The ability for any and every human being who is fortunate enough to have access to the internet to access educational resources has changed the world for us all. Educating one’s self via the power of the world wide web is one of the most incredible things to come from the development of the internet. Thanks to the internet’s incredible reach E-learning is choice billions employee. When it comes to researching and discovering the tools necessary to move forward in our efforts to comprehend and even master material our ability to retrieve the information that would support our comprehension is only a click, tap, or keystroke away. Now, as it pertains to retreiving that information it is all the about choice, and most of us tend to agree that there are a lot more choices than ever before...maybe too many.  Our studying, learning is now being done online in so many places and being offered by so many providers, and while this abundance of media content is good, the fragmentation of various sources and media devices has made it increasingly complex for users (and more specifically web development students) to discover and manage the content they are interested in order that it would translate into a more efficient and effective learning experience. </Content>
+				<Br />
+				<Br />
+				<Br />
+				<Content>KEY DRIVERS</Content>
+				<Br />
+				<Content>As the density of the online content increases and consumers are overloaded with choices, the ability to find and access content more  is crucial to the success of the app. I based my designs to deliver upon the following key areas.</Content>
+				<Br />
+				<Br />
+				<Content>UNIVERSAL SEARCH</Content>
+				<Br />
+				<Content>A universal search that unifies content from multiple services and streaming providers (Youtube, TedEx, Vimeo, etc.), providing a single point of entry to discover not only new but desired content.</Content>
+				<Br />
+				<Br />
+				<Content>PERSONALIZATION</Content>
+				<Br />
+				<Content>A library allowing curation of personalized content.</Content>
+				<Br />
+				<Br />
+				<Br />
+				<Content>• As a user, I can upload my a video to the platform for all members to view as part of the platform’s catalog.</Content>
+				<Br />
+				<Content>• As a user, I can create a description of a video so that prospective viewers can learn more about it and make an informed decision as to whether it’s the content they desire to invest time in viewing.</Content>
+				<Br />
+				<Content>(As a site visitor, I can view a description of each video so that I can make a decision as to whether to sign up or login to view)</Content>
+				<Br />
+				<Content>• As a user, I can manage my profile/account so that it reflects my current information i.e. username, email, bio, contents of my library)</Content>
+				<Br />
+				<Content>• As a user, I can maintain a bio about myself in my user profile</Content>
+				<Br />
+				<Content>• As a site visitor, I can browse the entire video catalog so that I can pick the right one for me.</Content>
+				<Br />
+				<Content>• As a site visitor, I can see a list of other related videos when viewing a video so that I can see other videos I</Content>
+				<Br />
+				<Content>might be interested in.</Content>
+				<Br />
+				<Content>• As a site visitor, I can create an account so that I can have full access and view the entire site’s catalog.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>(As a user, I want each video marked as viewed after I view or complete it so that I can keep track of which videos I’ve completed)</Content>
+				<Br />
+				<Content>• As a user, I can re-watch any video so that I can make sure I understand it.</Content>
+				<Br />
+				<Content>• As a site visitor, I can view some videos without being signed in so that I can decide if I want to signup.</Content>
+				<Br />
+				<Content>(As a participant, I can set a mode on the videos so that one begins as the previous one finishes so that I can</Content>
+				<Br />
+				<Content>watch without having to touch my keyboard, mouse or screen)</Content>
+				<Br />
+				<Content>• As a user with special needs, I want to have the site comply with the W3C accessibility guidelines where possible so that</Content>
+				<Br />
+				<Content>people with accessibility issues can use the application as well.</Content>
+				<Br />
+				<Content>(As a user, I want to upload a profile picture so my friends will recognize me eazier)</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u18ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch6" SwatchItemRef="Color/C=0 M=0 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch5" SwatchItemRef="Color/C=0 M=100 Y=0 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch4" SwatchItemRef="Color/C=100 M=0 Y=0 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch9" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch7" SwatchItemRef="Color/C=15 M=100 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch8" SwatchItemRef="Color/C=75 M=5 Y=100 K=0" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u18ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
+	</ColorGroup>
+</Document>

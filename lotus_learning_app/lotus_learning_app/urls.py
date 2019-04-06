@@ -19,9 +19,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
+    path('', Index.as_view()),
+    path('index/', Index.as_view()),
     path('admin/', admin.site.urls),
     path('index/', Index.as_view()),
     path('new_video/', NewVideo.as_view())
 ]
+
+
+urlpatterns += staticfiles_urlpatterns()
