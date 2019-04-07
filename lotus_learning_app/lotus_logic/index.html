@@ -1,17 +1,15 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
 
 {% block title %}
-Lotus Learning | Home
-{% endblock title %}
-
-{% block header %}
-<h1>Index Page Title</h1>
-{% endblock header %}
+Home
+{% endblock %}
 
 {% block body %}
-This is Index View</br>
+<h1>Welcome to Lotus Learning</h1><br>
 
-This is a GET Request.</br>
-_______________The following is the beginning of my variableA_______________</br>
-{{ variableA }}
-{% endblock body %}
+Most recent video:<br>
+
+Video ID 1</br>
+Video ID 2
+
+{% endblock %}

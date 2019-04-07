@@ -12,7 +12,7 @@ class Video(models.Model):
 
 
 class Comment(models.Model):
-    text = models.TextField(max_length=30)
+    text = models.TextField(max_length=100)
     datetime = models.DateTimeField(blank=False, null=False)
     video = models.ForeignKey(
         'auth.User', on_delete=models.CASCADE, related_name='videos')
