@@ -6,23 +6,31 @@ from django.contrib.auth import authenticate, login, logout
 
 
 class HomeView(View):
-    template_name = 'index.html'
+    # HomeView = when visitor is NOT signed in
+    template_name = 'splash.html'
 
     def get(self, request):
-        variableA = 'Title'
+        return render(request, self.template_name)
+
+
+class MainView(View):
+    # MainView = when visitor is signed in
+    template_name = 'logged_in_main.html'
+
+    def get(self, request):
         return render(request, self.template_name, {'menu_active_item': 'home'})
 
 
 class LoginView(View):
-    template_name = 'login.html'
+    template_name = 'signin.html'
 
     def get(self, request):
         if request.user.is_authenticated:
             print('already logged in. Redirecting.')
             print(request.user)
             logout(request)
-            return HttpResponseRedirect('/')
-
+            return HttpResponseRedirect('/home')
+            # { % url login % }
         form = LoginForm()
         return render(request, self.template_name, {'form': form})
 
@@ -37,9 +45,10 @@ class LoginView(View):
                 # create a new entry in table 'logs'
                 login(request, user)
                 print('success login')
-                return HttpResponseRedirect('/')
+                # messages.success()
+                return HttpResponseRedirect('/home')
             else:
-                return HttpResponseRedirect('login')
+                return HttpResponseRedirect('/register')
         return HttpResponse('This is Login view. POST Request.')
 
 
@@ -50,7 +59,7 @@ class RegisterView(View):
         if request.user.is_authenticated:
             print('already logged in. Redirecting.')
             print(request.user)
-            return HttpResponseRedirect('/')
+            return HttpResponseRedirect('')
         form = RegisterForm()
         return render(request, self.template_name, {'form': form})
 
@@ -62,21 +71,29 @@ class RegisterView(View):
             print(form.cleaned_data['username'])
             username = form.cleaned_data['username']
             password = form.cleaned_data['password']
+            firstname = form.cleaned_data['firstname']
+            lastname = form.cleaned_data['firstname']
             email = form.cleaned_data['email']
-            new_user = User(username=username, email=email)
+            new_user = User(username=username, email=email,
+                            first_name=firstname, last_name=lastname)
             new_user.set_password(password)
             new_user.save()
-            return HttpResponseRedirect('/login')
+            return HttpResponseRedirect('/signin')
         return HttpResponse('This is Register view. POST Request.')
+
+
+# new_user = User.objects.create_user(username, email, password)
+# new_user.is_active = False
+# new_user.first_name = first_name
+# new_user.last_name = last_name
 
 
 class NewVideo(View):
     template_name = 'new_video.html'
 
     def get(self, request):
-        variableA = 'New Video'
         form = NewVideoForm()
-        return render(request, self.template_name, {'variableA': variableA, 'form': form})
+        return render(request, self.template_name, {'form': form})
 
     def post(self, request):
         return HttpResponse('This is Index view. POST Request.')

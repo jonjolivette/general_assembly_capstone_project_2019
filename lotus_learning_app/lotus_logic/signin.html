@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}
+Login - Lotus Learning
+{% endblock %}
+
+
+{% block body %}
+<br>
+<!-- https://stackoverflow.com/questions/5467192/django-what-goes-into-the-form-action-parameter-when-view-requires-a-parameter -->
+<form action="" method="POST" role="form" name="form">
+    {% csrf_token %}
+    {{ form.as_table }}
+
+    <br>
+    <button type="submit" class="btn btn-primary" role="button">Log In</button>
+</form>
+{% endblock %}
